@@ -1,0 +1,35 @@
+body{
+    background-color: black;
+}
+h3{
+    background-color: red;
+    width: 100%;
+    padding: 20px;
+    text-align: center;
+}
+
+.pic
+{
+    float: left;
+    width: 600px;
+    height: 600px;
+    margin-left: 40px;
+    padding: 0 10px 0 0;
+
+}
+#para
+{
+    color: white;
+    text-align: justify;
+    
+}
+#para p{
+    margin-left: 80px;
+    padding: 10px;
+}
+#ss td{
+    color: white;
+}
+h4{
+    color: white;
+}

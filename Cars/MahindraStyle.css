@@ -1,0 +1,20 @@
+body{
+
+    background-color: black;
+}
+.card-img-top
+{
+    height: 250px;
+}
+.card-body
+{
+    background-color: gray;
+    color: white;
+}
+.card{
+    margin-bottom: 25px;
+    margin-top: 10px;
+}
+a{
+    color: black;
+}

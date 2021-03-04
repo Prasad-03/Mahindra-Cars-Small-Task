@@ -1,0 +1,27 @@
+body {
+ 
+  background: url(2825482.jpg) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+#t1{
+    color: lavender;
+    margin-top: 100px;
+    margin-left: 50px;
+}
+p{
+    color: lavender;
+    position: sticky;
+    display: inline-block;
+    margin-left: 50px;
+    padding-top: 20px;
+}
+.navbar {
+    
+    background-color: #333;
+    position: fixed;
+    top: 0;
+    width: 100%;
+  }
